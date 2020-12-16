@@ -13,7 +13,7 @@ The code will only exammine the first 10 seconds of the ECG, although the readin
 the database, this code will utilize .dat files. 
 
 #### Instructions
-Once the code is opened, click run. This will open up the file explorer tab where the user must select the .dat file of the patient. they wish to assess. The output of this
+Once the code is opened, click run. This will open up the file explorer tab where the user must select the .dat file of the patient they wish to assess. The output of this
 code will print the patient's heartbeat, the type and time in which irregular heartbeats occur, will output either tachycardia if the patient's beats per minute is greater than 100, bradycardia if the patient's beats per minute is less than 50, or that the patient is 'not at risk of arrhythmia' if none of these are shown in the patient's ECG.
 
 #### References
